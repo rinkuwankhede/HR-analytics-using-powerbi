@@ -12,7 +12,7 @@
    * DAX (Data Analysis Expressions) – Used for calculated measures, key performance indicators (KPIs).
    * File Format – .pbix for development and .png for dashboard previews and exports.
 
-4. Data Source - Yes, I did this project as part of my data analytics course.
+4. Data Source - I did this project as part of my data analytics course.
 
 5.  Features / Highlights - GOAL OF THE DASHBOARD - KPI Cards - Snapshot metrics for quick decision-making (employee count, attrition count, attrition rate %, salary). Department Filter  - Sliceable dashboard , allows drill-down by HR, R&D, Sales. Mixed Visualization Types - Bars (categorical), area chart (trends over time), table (detailed breakdown). 
 
@@ -26,4 +26,5 @@ Walkthrough of Key Visuals -
             R&D — Nailing it. Lowest pay but best retention. People stay because work is interesting, not just the paycheck.
             Sales — Disaster. Paying the most but losing 40% of reps in Year 1. Quotas are probably too harsh for new hires.
 
-## Screenshots / Demos - 
+## Screenshots / Demos - https://github.com/rinkuwankhede/HR-analytics-using-powerbi/blob/main/HR%20dashboard.png
+![HR Dashboard](https://github.com/rinkuwankhede/HR-analytics-using-powerbi/blob/main/HR%20dashboard.png)
